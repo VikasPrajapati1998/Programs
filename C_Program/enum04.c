@@ -1,0 +1,42 @@
+#include <stdio.h>
+#include <conio.h>
+#include <string.h>
+
+int main(void){
+	enum emp_dept{
+		assembly=5, manufacturing, accounts=0, stores // assembly=0 : default value assigned by compiler
+	};
+	
+	struct employee{
+		char name[30];
+		int age;
+		float bs;
+		enum emp_dept department;
+	};
+	
+	typedef struct employee emp;
+	emp e;
+	strcpy(e.name, "Vikas Prajapati");
+	e.age = 24;
+	e.bs = 60000;
+	e.department = accounts;
+	
+	printf("\n");
+	printf("Name = %s\n", e.name);
+	printf("Age = %d\n", e.age);
+	printf("Basic Salary = %.2f\n", e.bs);
+	printf("Dept = %d\n", e.department);
+	
+	emp *ptr;
+	ptr = &e;
+	ptr->age = 32;
+	(*ptr).bs = 150000;
+	
+	printf("\n");
+	printf("Name = %s\n", ptr->name);
+	printf("Age = %d\n", e.age);
+	printf("Basic Salary = %.2f\n", ptr->bs);
+	printf("Dept = %d\n", e.department);
+	
+	return 0;
+}
