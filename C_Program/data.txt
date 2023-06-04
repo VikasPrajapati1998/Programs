@@ -1,0 +1,5 @@
+This is the dummy data file to read the data from it.
+So it is good for practice on file handling.
+No need to more serious for this file. Because it don't have any sensitive data.
+You also should not store any sensitive data to it. Because it is public file
+with no security. So make your own file to store your personal data.

@@ -1,0 +1,45 @@
+Commonly associated files
+NFTs have been used as a means of exchanging digital tokens that link to a digital file. Ownership of an NFT is often associated with a license to use the
+underlying digital asset, but generally does not confer copyright to the buyer. Some agreements only grant a license for personal, non-commercial use,
+while other licenses also allow commercial use of the underlying digital asset.[29]
+Digital art
+Some digital art NFTs, like these pixel art characters, are examples of generative art.
+Digital art is a common use case for NFTs.[30] High-profile auctions of NFTs linked to digital art have received considerable public attention, with the work
+"Merge" by artist Pak being the most expensive NFT with a price of $91.8 million[31] and Everydays: the First 5000 Days, by artist Mike Winkelmann (known
+professionally as Beeple), the second most expensive auction at US$69.3 million in 2021.[5][32]
+Some NFT collections, including EtherRocks and CryptoPunks are examples of generative art, where many different images can be created by assembling a selection
+of simple picture components in different combinations.[33]
+In March 2021, the blockchain company Injective Protocol bought a $95,000 original screen print entitled Morons (White) from English graffiti artist Banksy,
+and filmed somebody burning it with a cigarette lighter, with the video being minted and sold as an NFT.[34][35] The person who destroyed the artwork, who
+called themselves "Burnt Banksy", described the act as a way to transfer a physical work of art to the NFT space.[35]
+American curator and art historian Tina Rivers Ryan, who specializes in digital works, has said that art museums are widely not convinced that NFTs represent
+"lasting cultural relevance."[36] Ryan has compared NFTs to the net art fad before the dot-com bubble.[37][38]
+Games
+Main article: Blockchain game
+NFTs can be used to represent in-game assets, such as digital plots of land, which some commentators describe as being controlled "by the user" instead of the
+game developer[39] by allowing assets to be traded on third-party marketplaces without permission from the game developer.[40]
+CryptoKitties was an early successful blockchain online game where players adopt and trade virtual cats. The monetization of NFTs within the game raised a $12.5
+million investment, with some kitties selling for over $100,000 each.[25][41][42] Following its success, CryptoKitties was added to the ERC-721 standard, which
+was created in January 2018 (and finalized in June).[43][21] A similar NFT-based online game, Axie Infinity, was launched in March 2018.
+In October 2021, developer Valve banned applications that use blockchain technology or NFTs to exchange value or game artifacts from their Steam platform.[44]
+In December 2021, Ubisoft announced Ubisoft Quartz, "an NFT initiative which allows people to buy artificially scarce digital items using cryptocurrency". The
+announcement has raised significant criticism, with a dislike ratio of 96% over the YouTube announcement video, which has since been unlisted.[45][46] Some 
+Ubisoft developers have also raised their concern over the announcement.[47][48][49] The Game Developers Conference's 2022 annual report stated that 70 percent
+of developers surveyed said their studios had no interest in integrating NFTs or cryptocurrency into their games.[50][51]
+Some luxury brands have minted NFTs for online video game cosmetics.[52] In November 2021, Morgan Stanley published a note suggesting that this use could become
+a multi-billion dollar market by 2030.[53]
+Music
+In February 2021, NFTs reportedly generated around $25 million within the music industry, with artists selling artwork and music as NFT tokens.[54] On February
+28, 2021, electronic dance musician 3LAU sold a collection of 33 NFTs for a total of $11.7 million to commemorate the three-year anniversary of his Ultraviolet
+album.[55][56] On March 3, 2021, an NFT was made to promote the Kings of Leon album When You See Yourself.[57][58][59] Other musicians that have used NFTs include
+American rapper Lil Pump,[60][61][62] Grimes,[63] visual artist Shepard Fairey in collaboration with record producer Mike Dean,[64] and rapper Eminem.[65]
+Film
+In May 2018, 20th Century Fox partnered with Atom Tickets and released limited-edition Deadpool 2 digital posters to promote the film. They were available from
+OpenSea and the GFT exchange.[66][67] In March 2021 Adam Benzine's 2015 documentary Claude Lanzmann: Spectres of the Shoah became the first motion picture and
+documentary film to be auctioned as an NFT.[68]
+Other projects in the film industry using NFTs include the announcement that an exclusive NFT artwork collection will be released for Godzilla vs. Kong[69] and
+director Kevin Smith announcing in April 2021 that his forthcoming horror movie Killroy Was Here would be released as an NFT.[70] The 2021 film Zero Contact,
+directed by Rick Dugdale and starring Anthony Hopkins, was also released as an NFT.[71][72]
+In April 2021, an NFT associated with the score of the movie Triumph, composed by Gregg Leonard, was minted as the first NFT for a feature film score.[73]
+In November 2021, film director Quentin Tarantino released seven NFTs based on uncut scenes of Pulp Fiction. Miramax subsequently filed a lawsuit claiming that
+their film rights were violated.[74]

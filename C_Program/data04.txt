@@ -1,0 +1,4 @@
+This is the message for every programmer.
+To use this language C for some small task.
+Now c is also have the feature of POP and OOP.
+Whis is called C++ or c with oops

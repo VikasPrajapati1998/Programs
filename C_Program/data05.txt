@@ -1,0 +1,12 @@
+The first known "NFT", Quantum, was created by Kevin McCoy and Anil Dash in May 2014, consisting of a video clip made by McCoy's wife Jennifer.
+McCoy registered the video on the Namecoin blockchain and sold it to Dash for $4, during a live presentation for the Seven on Seven conference
+at the New Museum in New York City. McCoy and Dash referred to the technology as "monetized graphics". A non-fungible, tradable blockchain marker
+was explicitly linked to a work of art, via on-chain metadata (enabled by Namecoin). This is in contrast to the multi-unit, fungible, metadata-less
+"colored coins" of other blockchains and Counterparty.
+In October 2015, the first NFT project, Etheria, was launched and demonstrated at DEVCON 1 in London, Ethereum's first developer conference, three
+months after the launch of the Ethereum blockchain. Most of Etheria's 457 purchasable and tradable hexagonal tiles went unsold for more than five
+years until March 13, 2021, when renewed interest in NFTs sparked a buying frenzy. Within 24 hours, all tiles of the current version and a prior
+version, each hardcoded to 1 ETH ($0.43 at the time of launch), were sold for a total of $1.4 million.
+The term "NFT" only gained currency with the ERC-721 standard, first proposed in 2017 via the Ethereum GitHub, following the launch of various NFT
+projects that year. The standard coincided with the launch of several NFT projects, including Curio Cards, CryptoPunks (a project to trade unique
+cartoon characters, released by the American studio Larva Labs on the Ethereum blockchain) and rare Pepe trading cards.
