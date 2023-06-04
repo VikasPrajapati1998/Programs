@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<head>
+    <title>flask_info</title>
+    <style>
+        table{
+            border: 20px solid #8a2be2;
+            border-radius: 10px;
+            background-color: orange;
+            padding: 8px 8px;
+            margin: 50px auto;
+            text-align: center;
+            }
+        th, td{
+            border: 5px solid pink;
+            border-radius: 7px;
+            background-color: lime;
+            margin: 5px 5px;
+            padding: 8px;
+            }
+        input, label{
+            height:30px;
+            width: 200px;
+            color: blue;
+            border-radius: 5px;
+            font-family: "Times New Roman", Times, serif;
+            font-style: oblique;
+            font-size: 20px;
+            }
+        #box{
+            height:auto;
+            width:800px;
+            background-color: aqua;
+            border: 50px solid #f05c79;
+            border-radius: 10px;
+            border-style: outset;
+            padding: 10px 10px 10px 10px;
+            margin: 50px auto;
+            text-align: center;
+            }
+    </style>
+</head>
+<body bgcolor="lime">
+<div id="box">
+    <h1 style="color:red;"><u><b>STUDENT FORM</b></u></h1>
+    <form action="/submit", method="post">
+        <table cellspacing=10>
+            <tr>
+                <td><label for="Science"><b>Science:</b></label></td>
+                <td><input type="text", id="science" name="science", value="0"></td>
+            </tr>
+            <tr>
+                <td><label for="Maths"><b>Mathematics:</b></label></td>
+                <td><input type="text", id="maths", name="maths", value="0"></td>
+            </tr>
+            <tr>
+                <td><label for="C_Programming"><b>C Programming:</b></label></td>
+                <td><input type="text", id="c_programming", name="c_programming", value="0"></td>
+            </tr>
+            <tr>
+                <td><label for="Data_Structure"><b>Data Structure:</b></label></td>
+                <td><input type="text", id="data_structure", name="data_structure", value="0"></td>
+            </tr>
+            <tr>
+                <td><label for="Data_Science"><b>Data Science:</b></label></td>
+                <td><input type="text", id="data_science", name="data_science", value="0"></td>
+            </tr>
+            <tr>
+                <td><input type="button" value="Clear" style="background-color:lightsteelblue; color:maroon; font-weight: bold;"></td>
+                <td><input type="submit", value="Submit" style="background-color:lightsteelblue; color:maroon; font-weight: bold"></td>
+            </tr>
+            <td colspan="2" style="background-color: teal;">
+                <p style="color:red;">If you click the "Submit" button, the form-data will be sent to a param.</p>
+            </td>
+        </table>
+    </form>
+</div>
+</body>
+</html>

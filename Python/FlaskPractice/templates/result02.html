@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+    <title>Result02</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style02.css') }}">
+</head>
+<body bgcolor="aqua">
+    <div id="box">
+        <table>
+            <tr>
+                <td><b><u><h2>Final Result</h2></u></b></td>
+            </tr>
+            {% for key, value in result.items() %}
+            <tr>
+                <td class="tag">{{ key }} = </td>
+                <td class="tag">{{ value }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+</body>
+</html>
+

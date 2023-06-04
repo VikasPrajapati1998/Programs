@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+</head>
+<body>
+<div>
+    Welcome to home page of html.
+    <ul>
+        {% for member in members: %}
+        <li>{{ member }}</li>
+	    {% endfor %}
+	</ul>
+</div>
+</body>
+</html>

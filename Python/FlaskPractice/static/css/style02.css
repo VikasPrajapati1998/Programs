@@ -1,0 +1,26 @@
+
+        #box{
+            background-color: #ffb3ff;
+            height: 400px;
+            width: 600px;
+            border: 40px solid #e9967a;
+            color: blue;
+            font-size: 30px;
+            margin: auto;
+        }
+
+        table{
+            height: auto;
+            width: 500px;
+            text-align: center;
+            background-color: orange;
+            border: 10px solid #808000;
+            border-radius: 20px;
+            color: blue;
+            margin: 50px auto;
+            padding: 20px;
+        }
+
+        .tag{
+        color: red;
+        }
