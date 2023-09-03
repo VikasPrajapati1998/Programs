@@ -1,0 +1,5 @@
+We have read the evolution of programming in the last some decates.
+In 1991 Mr. James Gosling create a programming language called Java.
+Which is the pure Object Oriented Programming Language.
+We know Cpp is not the pure Object Oriented Programming Language.
+It vilade some point of OOPs. But belive me it was a great creation.
